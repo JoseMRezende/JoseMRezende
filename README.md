@@ -1,8 +1,6 @@
 # José Rezende
 
-### 📕Student
-### ☕Developer
-### 💻Back-End
+### 📕Student  ☕Developer  💻Back-End
 
 <div align="center">
   <a href="https://github.com/JoseMRezende">
