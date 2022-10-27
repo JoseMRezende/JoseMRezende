@@ -1,8 +1,8 @@
-### José Marcos 👽
+# José Rezende
 
-📕Student
-☕Developer
-💻Back-End
+### 📕Student
+### ☕Developer
+### 💻Back-End
 
 <div align="center">
   <a href="https://github.com/JoseMRezende">
@@ -12,5 +12,3 @@
   <img align="center" alt="Python" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Java" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 </div>
-
-![Snake animation](https://github.com/JoseMRezende/JoseMRezende/blob/output/github-contribution-grid-snake.svg)
