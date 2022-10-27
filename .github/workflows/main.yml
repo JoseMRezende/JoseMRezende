@@ -1,30 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@JoseMRezende 
-ELLEN2121
-/
-ELLEN2121
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-ELLEN2121/.github/workflows/main.yml
-@ELLEN2121
-ELLEN2121 Create main.yml
-Latest commit 2fb55af on 5 Jun 2021
- History
- 1 contributor
-25 lines (22 sloc)  582 Bytes
-
 name: Generate Datas
 
 on:
@@ -41,7 +14,7 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: ellen2121
+          github_user_name: JoseMRezende 
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
@@ -50,18 +23,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-ELLEN2121/main.yml at main · ELLEN2121/ELLEN2121
