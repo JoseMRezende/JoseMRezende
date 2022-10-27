@@ -1,16 +1,16 @@
-### Hi there 👋
+### José Marcos 👽
 
-<!--
-**JoseMRezende/JoseMRezende** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📕Student
+☕Developer
+💻Back-End
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/JoseMRezende">
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseMrezende&layout=compact&langs_count=7&theme=dark"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Java" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Snake animation](https://github.com/JoseMRezende/JoseMRezende/blob/output/github-contribution-grid-snake.svg)
